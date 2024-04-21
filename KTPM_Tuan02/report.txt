@@ -1,0 +1,542 @@
+====================================================
+Package không tuân thủ mẫu: app
+Class FixButton không có mô tả trong package app
+Method settingButton không có mô tả trong package app
+Method setBorderRadius không có mô tả trong package app
+Method getBorderRadius không có mô tả trong package app
+Method setBackground không có mô tả trong package app
+Method setMouseHoverEnable không có mô tả trong package app
+Method paintComponent không có mô tả trong package app
+====================================================
+Package không tuân thủ mẫu: app
+Class FrmDangNhap không có mô tả trong package app
+Method main không có mô tả trong package app
+Method showPopup không có mô tả trong package app
+Method dangNhap không có mô tả trong package app
+Method actionPerformed không có mô tả trong package app
+====================================================
+Package không tuân thủ mẫu: app
+Class FrmDanhSachHoaDon không có mô tả trong package app
+Method clearTable không có mô tả trong package app
+Method clearTableCTHD không có mô tả trong package app
+Method resetAll không có mô tả trong package app
+Method loadTableHoaDon không có mô tả trong package app
+Method tongTienCTHD không có mô tả trong package app
+Method loadHoaDon không có mô tả trong package app
+Method tinhTienThue không có mô tả trong package app
+Method loadThanhTien không có mô tả trong package app
+Method loadTimKiem không có mô tả trong package app
+Method actionPerformed không có mô tả trong package app
+Method loadThongTin không có mô tả trong package app
+Method loadTableCTHD không có mô tả trong package app
+Method mousePressed không có mô tả trong package app
+Method mouseReleased không có mô tả trong package app
+Method mouseEntered không có mô tả trong package app
+Method mouseExited không có mô tả trong package app
+Method keyTyped không có mô tả trong package app
+Method keyPressed không có mô tả trong package app
+Method keyReleased không có mô tả trong package app
+====================================================
+Package không tuân thủ mẫu: app
+Class FrmDonDatPhong không có mô tả trong package app
+Method getFrmDDP không có mô tả trong package app
+Method removeDanhSachPhong không có mô tả trong package app
+Method removeDanhSachDDP không có mô tả trong package app
+Method resetAll không có mô tả trong package app
+Method loadDSPhongTrongVaDaDat không có mô tả trong package app
+Method loadDanhSachDDP không có mô tả trong package app
+Method changeColorRow không có mô tả trong package app
+Method loadDDPTheoSdtKH không có mô tả trong package app
+Method loadDDPTheoTenKH không có mô tả trong package app
+Method choose1DDP không có mô tả trong package app
+Method findKHVaDDP không có mô tả trong package app
+Method checkInfoKH không có mô tả trong package app
+Method addDDP không có mô tả trong package app
+Method updateDDP không có mô tả trong package app
+Method actionPerformed không có mô tả trong package app
+Method focusGained không có mô tả trong package app
+Method focusLost không có mô tả trong package app
+====================================================
+Package không tuân thủ mẫu: app
+Class FrmKhachHang không có mô tả trong package app
+Method getFrmKH không có mô tả trong package app
+Method loadDanhSachKH không có mô tả trong package app
+Method loadThongTin không có mô tả trong package app
+Method loadDanhSachMaVaSoKH không có mô tả trong package app
+Method loadDanhSachTenKH không có mô tả trong package app
+Method loadDanhSachTenKHTheoLoai không có mô tả trong package app
+Method clearTable không có mô tả trong package app
+Method themKHVaoDanhSach không có mô tả trong package app
+Method suaThongTin không có mô tả trong package app
+Method resetAll không có mô tả trong package app
+Method cancelKH không có mô tả trong package app
+Method findKH không có mô tả trong package app
+Method itemStateChanged không có mô tả trong package app
+Method mouseClicked không có mô tả trong package app
+Method mousePressed không có mô tả trong package app
+Method mouseReleased không có mô tả trong package app
+Method mouseEntered không có mô tả trong package app
+Method mouseExited không có mô tả trong package app
+Method actionPerformed không có mô tả trong package app
+Method keyTyped không có mô tả trong package app
+Method keyPressed không có mô tả trong package app
+Method keyReleased không có mô tả trong package app
+Method focusGained không có mô tả trong package app
+Method focusLost không có mô tả trong package app
+====================================================
+Package không tuân thủ mẫu: app
+Class FrmMatHang không có mô tả trong package app
+Method getFrmMatHang không có mô tả trong package app
+Method loadTableMH không có mô tả trong package app
+Method clearTable không có mô tả trong package app
+Method LamMoi không có mô tả trong package app
+Method actionPerformed không có mô tả trong package app
+Method ThemMH không có mô tả trong package app
+Method updateMHNgungKD không có mô tả trong package app
+Method SuaMH không có mô tả trong package app
+Method timMH không có mô tả trong package app
+Method loadTenMH không có mô tả trong package app
+Method loadLoaiMH không có mô tả trong package app
+Method mouseClicked không có mô tả trong package app
+Method mousePressed không có mô tả trong package app
+Method mouseReleased không có mô tả trong package app
+Method mouseEntered không có mô tả trong package app
+Method mouseExited không có mô tả trong package app
+====================================================
+Package không tuân thủ mẫu: app
+Class FrmNhanVien không có mô tả trong package app
+Method getPanel không có mô tả trong package app
+Method removeDanhSachNV không có mô tả trong package app
+Method resetAll không có mô tả trong package app
+Method loadDanhSachNV không có mô tả trong package app
+Method loadDanhSachMaVaSdtNV không có mô tả trong package app
+Method loadDanhSachTenNV không có mô tả trong package app
+Method findNV không có mô tả trong package app
+Method addNV không có mô tả trong package app
+Method XoaNV không có mô tả trong package app
+Method updateNV không có mô tả trong package app
+Method actionPerformed không có mô tả trong package app
+Method checkEdit không có mô tả trong package app
+Method mouseClicked không có mô tả trong package app
+Method mousePressed không có mô tả trong package app
+Method mouseReleased không có mô tả trong package app
+Method mouseEntered không có mô tả trong package app
+Method mouseExited không có mô tả trong package app
+Method focusGained không có mô tả trong package app
+Method focusLost không có mô tả trong package app
+====================================================
+Package không tuân thủ mẫu: app
+Class FrmPhong không có mô tả trong package app
+Method getFrmPhong không có mô tả trong package app
+Method clearTable không có mô tả trong package app
+Method loadDanhSachPhong không có mô tả trong package app
+Method loadDanhSachPhong không có mô tả trong package app
+Method loadPhongDuocChon không có mô tả trong package app
+Method loadDanhSachPhongTheoLoai không có mô tả trong package app
+Method loadDanhSachPhongTheoMa không có mô tả trong package app
+Method loadDanhSachPhongTheoTinhTrang không có mô tả trong package app
+Method themPhong không có mô tả trong package app
+Method suaThongTin không có mô tả trong package app
+Method xoaPhong không có mô tả trong package app
+Method findPhong không có mô tả trong package app
+Method resetAll không có mô tả trong package app
+Method itemStateChanged không có mô tả trong package app
+Method mouseClicked không có mô tả trong package app
+Method mousePressed không có mô tả trong package app
+Method mouseReleased không có mô tả trong package app
+Method mouseEntered không có mô tả trong package app
+Method mouseExited không có mô tả trong package app
+Method actionPerformed không có mô tả trong package app
+====================================================
+Package không tuân thủ mẫu: app
+Class FrmQuanLy không có mô tả trong package app
+Method showPopup không có mô tả trong package app
+Method setTrangThaiPhongTheoNgay không có mô tả trong package app
+Method resetColorMenu không có mô tả trong package app
+Method loadFrmNhanVien không có mô tả trong package app
+Method loadFrmKhachHang không có mô tả trong package app
+Method loadFrmQLBH không có mô tả trong package app
+Method loadFrmDDP không có mô tả trong package app
+Method loadFrmMatHang không có mô tả trong package app
+Method loadFrmPhong không có mô tả trong package app
+Method loadFrmThongKe không có mô tả trong package app
+Method dangXuat không có mô tả trong package app
+Method actionPerformed không có mô tả trong package app
+Method mouseClicked không có mô tả trong package app
+Method mousePressed không có mô tả trong package app
+Method mouseReleased không có mô tả trong package app
+Method mouseEntered không có mô tả trong package app
+Method mouseExited không có mô tả trong package app
+====================================================
+Package không tuân thủ mẫu: app
+Class FrmThanhToan không có mô tả trong package app
+Method getFrmQLBH không có mô tả trong package app
+Method loadPhong không có mô tả trong package app
+Method loadInfo không có mô tả trong package app
+Method loadTable không có mô tả trong package app
+Method clearTable không có mô tả trong package app
+Method tinhTienThue không có mô tả trong package app
+Method tongTienCTHD không có mô tả trong package app
+Method loadThanhTien không có mô tả trong package app
+Method kiemTraMatHangTrongBang không có mô tả trong package app
+Method getSoLuongMH không có mô tả trong package app
+Method timRow không có mô tả trong package app
+Method giamSL không có mô tả trong package app
+Method kiemTraGiamSL không có mô tả trong package app
+Method themMHVaoCTDDP không có mô tả trong package app
+Method xoaCTDDP không có mô tả trong package app
+Method capNhatKHThanhToan không có mô tả trong package app
+Method themCTHD không có mô tả trong package app
+Method themHD không có mô tả trong package app
+Method timKiem không có mô tả trong package app
+Method resetDichVu không có mô tả trong package app
+Method resetAll không có mô tả trong package app
+Method lamMoiThanhToan không có mô tả trong package app
+Method actionPerformed không có mô tả trong package app
+Method mouseClicked không có mô tả trong package app
+Method mousePressed không có mô tả trong package app
+Method mouseReleased không có mô tả trong package app
+Method mouseEntered không có mô tả trong package app
+Method mouseExited không có mô tả trong package app
+====================================================
+Package không tuân thủ mẫu: app
+Class FrmThongKe không có mô tả trong package app
+Method getFrmThongKe không có mô tả trong package app
+Method tinhTienThue không có mô tả trong package app
+Method tongTienCTHD không có mô tả trong package app
+Method tongDoanhThu không có mô tả trong package app
+Method loadThongKeDoanhThu không có mô tả trong package app
+Method loadThongKeSoGio không có mô tả trong package app
+Method resetAll không có mô tả trong package app
+Method tinhTienThue không có mô tả trong package app
+Method loadDataTable không có mô tả trong package app
+Method actionPerformed không có mô tả trong package app
+====================================================
+Package không tuân thủ mẫu: connection
+Class ConnectDB không có mô tả trong package connection
+Method getinstance không có mô tả trong package connection
+Method connect không có mô tả trong package connection
+Method disconnect không có mô tả trong package connection
+Method getConnection không có mô tả trong package connection
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAOCTDDP không có mô tả trong package dao
+Method themCTDDP không có mô tả trong package dao
+Method xoaCTDDP không có mô tả trong package dao
+Method suaSoluongMH không có mô tả trong package dao
+Method getCTDDPTheoMa không có mô tả trong package dao
+Method getCTDDPTheoMaDDP không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAOCTHD không có mô tả trong package dao
+Method themCTHD không có mô tả trong package dao
+Method getCTHDTheoMa không có mô tả trong package dao
+Method getCTHDTheoMaHD không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAODonDatPhong không có mô tả trong package dao
+Method themDDP không có mô tả trong package dao
+Method capNhatDDP không có mô tả trong package dao
+Method capNhatTrangThaiDDP không có mô tả trong package dao
+Method getAllDanhSachDDP không có mô tả trong package dao
+Method getDanhSachDDPChoXacNhanVaDaXacNhan không có mô tả trong package dao
+Method getDDPTheoMaPhong không có mô tả trong package dao
+Method getDDPTheoMaKH không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAOHoaDon không có mô tả trong package dao
+Method themHoaDon không có mô tả trong package dao
+Method getHDTheoNgay không có mô tả trong package dao
+Method getHDTheoMa không có mô tả trong package dao
+Method getHDTheoTenKH không có mô tả trong package dao
+Method getHDTheoMaNV không có mô tả trong package dao
+Method getHDtheoNgay không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAOKhachHang không có mô tả trong package dao
+Method themDanhSachKH không có mô tả trong package dao
+Method huyKH không có mô tả trong package dao
+Method suaThongTinKhachHang không có mô tả trong package dao
+Method getKHTheoMa không có mô tả trong package dao
+Method getTenKH không có mô tả trong package dao
+Method getDanhSachKH không có mô tả trong package dao
+Method getMaVaSDTKH không có mô tả trong package dao
+Method getKHTheoSDT không có mô tả trong package dao
+Method getKHTheoLoai không có mô tả trong package dao
+Method themKHTheoDDP không có mô tả trong package dao
+Method getMaLoaiKHFromTen không có mô tả trong package dao
+Method checkSdtKH không có mô tả trong package dao
+Method getKHTheoTen không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAOLoaiKH không có mô tả trong package dao
+Method getAllLoaiKH không có mô tả trong package dao
+Method getLoaiKHTheoMaLoai không có mô tả trong package dao
+Method getMaLoaiKHTheoTen không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAOLoaiMH không có mô tả trong package dao
+Method getAllLoaiMatHang không có mô tả trong package dao
+Method getLoaiMHTheoMaLoai không có mô tả trong package dao
+Method getMaLoaiMHTheoTen không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAOLoaiPhong không có mô tả trong package dao
+Method getAllLoaiPhong không có mô tả trong package dao
+Method getLoaiPhongTheoMa không có mô tả trong package dao
+Method getLoaiPhongTheoTenLoai không có mô tả trong package dao
+Method getMaLoaiPTheoTen không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAOMatHang không có mô tả trong package dao
+Method ThemMH không có mô tả trong package dao
+Method updateMH không có mô tả trong package dao
+Method getDSMatHang không có mô tả trong package dao
+Method getMHTheoMaMH không có mô tả trong package dao
+Method getMHTheoTenMH không có mô tả trong package dao
+Method getMatHangTheoMaLoai không có mô tả trong package dao
+Method getMatHangTheoTenMatHang không có mô tả trong package dao
+Method getMHTheoTenMHVaLoaiMH không có mô tả trong package dao
+Method getTenMH không có mô tả trong package dao
+Method getLMH không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAONhanVien không có mô tả trong package dao
+Method themNV không có mô tả trong package dao
+Method xoaNV không có mô tả trong package dao
+Method capNhatNV không có mô tả trong package dao
+Method getAllDanhSachNV không có mô tả trong package dao
+Method getMaVaSDTNV không có mô tả trong package dao
+Method getNVTheoMa không có mô tả trong package dao
+Method getTenNV không có mô tả trong package dao
+Method getChucVuNV không có mô tả trong package dao
+Method getMaVaSdtNVChoDDP không có mô tả trong package dao
+Method getNVTheoTK không có mô tả trong package dao
+Method checkmaNV không có mô tả trong package dao
+Method checkSdtNV không có mô tả trong package dao
+Method checkCccdNV không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAOPhatSinhMa không có mô tả trong package dao
+Method getMaHD không có mô tả trong package dao
+Method getMaKH không có mô tả trong package dao
+Method getMaNV không có mô tả trong package dao
+Method getMaMH không có mô tả trong package dao
+Method getMaP không có mô tả trong package dao
+Method getMaDDP không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAOPhong không có mô tả trong package dao
+Method themPhong không có mô tả trong package dao
+Method huyP không có mô tả trong package dao
+Method suaThongTinPhong không có mô tả trong package dao
+Method capnhatTrangThaiPhong không có mô tả trong package dao
+Method getPhongTrongVaDaDat không có mô tả trong package dao
+Method getPhongTheoMa không có mô tả trong package dao
+Method getPhongDangHoatDong không có mô tả trong package dao
+Method getDanhSachPhong không có mô tả trong package dao
+Method getPhongDangHoatDongTheoMaP không có mô tả trong package dao
+Method getPhongDangHoatDongTheoMaLoai không có mô tả trong package dao
+Method getGiaPhongTheoMa không có mô tả trong package dao
+Method getPhongTheoLoai không có mô tả trong package dao
+Method getThongTinPhong không có mô tả trong package dao
+Method getPhongTheoTinhTrang không có mô tả trong package dao
+Method getPhongTheoMaP không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class DAOTaiKhoan không có mô tả trong package dao
+Method createTK không có mô tả trong package dao
+Method suaTK không có mô tả trong package dao
+Method getDanhSachTK không có mô tả trong package dao
+Method getTaiKhoanTheoMa không có mô tả trong package dao
+Method getMatKhauTheoMaNV không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: dao
+Class Regex không có mô tả trong package dao
+Method regexDiaChi không có mô tả trong package dao
+Method regexTen không có mô tả trong package dao
+Method regexSDT không có mô tả trong package dao
+Method regexCCCD không có mô tả trong package dao
+Method regexSoLuong không có mô tả trong package dao
+Method regexGiaP không có mô tả trong package dao
+Method regexGiaMH không có mô tả trong package dao
+Method regexTimKiemMaPhong không có mô tả trong package dao
+Method regexTimKiemMaNV không có mô tả trong package dao
+Method regexTimNV không có mô tả trong package dao
+Method regexTimKiemMaKH không có mô tả trong package dao
+Method regexTimKiemLoaiKH không có mô tả trong package dao
+Method regexTenMH không có mô tả trong package dao
+Method regexTimMH không có mô tả trong package dao
+Method regexNVTren18 không có mô tả trong package dao
+Method regexTimDSHD không có mô tả trong package dao
+Method regexMatKhau không có mô tả trong package dao
+Method regexTimKiemLoaiMatHang không có mô tả trong package dao
+Method regexTimKiemGioiTinh không có mô tả trong package dao
+Method regexTimKH không có mô tả trong package dao
+Method regexTimPhong không có mô tả trong package dao
+Method regexTimKiemLoaiPhong không có mô tả trong package dao
+Method regexTimKiemTinhTrang không có mô tả trong package dao
+Method regexTimDDPTheoKH không có mô tả trong package dao
+====================================================
+Package không tuân thủ mẫu: entity
+Class CTDDP không có mô tả trong package entity
+Method getDonDatPhong không có mô tả trong package entity
+Method setDonDatPhong không có mô tả trong package entity
+Method getSoLuongMH không có mô tả trong package entity
+Method setSoLuongMH không có mô tả trong package entity
+Method getMatHang không có mô tả trong package entity
+Method setMatHang không có mô tả trong package entity
+Method getSerialversionuid không có mô tả trong package entity
+====================================================
+Package không tuân thủ mẫu: entity
+Class CTHD không có mô tả trong package entity
+Method getSoLuong không có mô tả trong package entity
+Method setSoLuong không có mô tả trong package entity
+Method getMatHang không có mô tả trong package entity
+Method setMatHang không có mô tả trong package entity
+Method getHoaDon không có mô tả trong package entity
+Method setHoaDon không có mô tả trong package entity
+Method getTongTien không có mô tả trong package entity
+Method setTongTien không có mô tả trong package entity
+====================================================
+Package không tuân thủ mẫu: entity
+Class DonDatPhong không có mô tả trong package entity
+Method getMaDDP không có mô tả trong package entity
+Method setMaDDP không có mô tả trong package entity
+Method getNgayLap không có mô tả trong package entity
+Method setNgayLap không có mô tả trong package entity
+Method getTrangThaiDDP không có mô tả trong package entity
+Method setTrangThaiDDP không có mô tả trong package entity
+Method getNgayDen không có mô tả trong package entity
+Method setNgayDen không có mô tả trong package entity
+Method getGioDen không có mô tả trong package entity
+Method setGioDen không có mô tả trong package entity
+Method getKhachHang không có mô tả trong package entity
+Method setKhachHang không có mô tả trong package entity
+Method getNhanVien không có mô tả trong package entity
+Method setNhanVien không có mô tả trong package entity
+Method getPhong không có mô tả trong package entity
+Method setPhong không có mô tả trong package entity
+Method getSerialversionuid không có mô tả trong package entity
+====================================================
+Package không tuân thủ mẫu: entity
+Class HoaDon không có mô tả trong package entity
+Method getMaHoaDon không có mô tả trong package entity
+Method setMaHoaDon không có mô tả trong package entity
+Method getNgayLap không có mô tả trong package entity
+Method setNgayLap không có mô tả trong package entity
+Method getGioVao không có mô tả trong package entity
+Method setGioVao không có mô tả trong package entity
+Method getGioRa không có mô tả trong package entity
+Method setGioRa không có mô tả trong package entity
+Method getPhuThu không có mô tả trong package entity
+Method setPhuThu không có mô tả trong package entity
+Method getTrangThaiHD không có mô tả trong package entity
+Method setTrangThaiHD không có mô tả trong package entity
+Method getNhanVien không có mô tả trong package entity
+Method setNhanVien không có mô tả trong package entity
+Method getKhachHang không có mô tả trong package entity
+Method setKhachHang không có mô tả trong package entity
+Method getPhong không có mô tả trong package entity
+Method setPhong không có mô tả trong package entity
+Method getGiamGia không có mô tả trong package entity
+Method setGiamGia không có mô tả trong package entity
+Method tinhThanhTien không có mô tả trong package entity
+====================================================
+Package không tuân thủ mẫu: entity
+Class KhachHang không có mô tả trong package entity
+Method getDiaChi không có mô tả trong package entity
+Method setDiaChi không có mô tả trong package entity
+Method getMaKhangHang không có mô tả trong package entity
+Method setMaKhangHang không có mô tả trong package entity
+Method getTenKH không có mô tả trong package entity
+Method setTenKH không có mô tả trong package entity
+Method getSdt không có mô tả trong package entity
+Method setSdt không có mô tả trong package entity
+Method getCccd không có mô tả trong package entity
+Method setCccd không có mô tả trong package entity
+Method getNgaySinh không có mô tả trong package entity
+Method setNgaySinh không có mô tả trong package entity
+Method getGioiTinh không có mô tả trong package entity
+Method setGioiTinh không có mô tả trong package entity
+Method getDiemTichLuy không có mô tả trong package entity
+Method setDiemTichLuy không có mô tả trong package entity
+Method getNgayDangKy không có mô tả trong package entity
+Method setNgayDangKy không có mô tả trong package entity
+Method getLoaiKH không có mô tả trong package entity
+Method setLoaiKH không có mô tả trong package entity
+====================================================
+Package không tuân thủ mẫu: entity
+Class LoaiKH không có mô tả trong package entity
+Method getMaLoaiKH không có mô tả trong package entity
+Method setMaLoaiKH không có mô tả trong package entity
+Method getTenLoaiKH không có mô tả trong package entity
+Method setTenLoaiKH không có mô tả trong package entity
+====================================================
+Package không tuân thủ mẫu: entity
+Class LoaiMatHang không có mô tả trong package entity
+Method getMaLoaiMatHang không có mô tả trong package entity
+Method setMaLoaiMatHang không có mô tả trong package entity
+Method getTenLoaiMatHang không có mô tả trong package entity
+Method setTenLoaiMatHang không có mô tả trong package entity
+====================================================
+Package không tuân thủ mẫu: entity
+Class LoaiPhong không có mô tả trong package entity
+Method getMaLoaiPhong không có mô tả trong package entity
+Method setMaLoaiPhong không có mô tả trong package entity
+Method getTenLoaiPhong không có mô tả trong package entity
+Method setTenLoaiPhong không có mô tả trong package entity
+====================================================
+Package không tuân thủ mẫu: entity
+Class MatHang không có mô tả trong package entity
+Method getMaMatHang không có mô tả trong package entity
+Method setMaMatHang không có mô tả trong package entity
+Method getTenMatHang không có mô tả trong package entity
+Method setTenMatHang không có mô tả trong package entity
+Method getSoLuongMatHang không có mô tả trong package entity
+Method setSoLuongMatHang không có mô tả trong package entity
+Method getGiaMatHang không có mô tả trong package entity
+Method setGiaMatHang không có mô tả trong package entity
+Method getLoaiMatHang không có mô tả trong package entity
+Method setLoaiMatHang không có mô tả trong package entity
+====================================================
+Package không tuân thủ mẫu: entity
+Class NhanVien không có mô tả trong package entity
+Method getMaNhanVien không có mô tả trong package entity
+Method setMaNhanVien không có mô tả trong package entity
+Method getTenNhanVien không có mô tả trong package entity
+Method setTenNhanVien không có mô tả trong package entity
+Method getChucVu không có mô tả trong package entity
+Method setChucVu không có mô tả trong package entity
+Method getGioiTinh không có mô tả trong package entity
+Method setGioiTinh không có mô tả trong package entity
+Method getNgaySinh không có mô tả trong package entity
+Method setNgaySinh không có mô tả trong package entity
+Method getDiaChi không có mô tả trong package entity
+Method setDiaChi không có mô tả trong package entity
+Method getSdt không có mô tả trong package entity
+Method setSdt không có mô tả trong package entity
+Method getCccd không có mô tả trong package entity
+Method setCccd không có mô tả trong package entity
+Method getLuong không có mô tả trong package entity
+Method setLuong không có mô tả trong package entity
+Method getTaiKhoan không có mô tả trong package entity
+Method setTaiKhoan không có mô tả trong package entity
+====================================================
+Package không tuân thủ mẫu: entity
+Class Phong không có mô tả trong package entity
+Method getMaPhong không có mô tả trong package entity
+Method setMaPhong không có mô tả trong package entity
+Method getTinhTrangPhong không có mô tả trong package entity
+Method setTinhTrangPhong không có mô tả trong package entity
+Method getGiaPhong không có mô tả trong package entity
+Method setGiaPhong không có mô tả trong package entity
+Method getLoaiPhong không có mô tả trong package entity
+Method setLoaiPhong không có mô tả trong package entity
+====================================================
+Package không tuân thủ mẫu: entity
+Class TaiKhoan không có mô tả trong package entity
+Method getMaTK không có mô tả trong package entity
+Method setMaTK không có mô tả trong package entity
+Method getMatKhau không có mô tả trong package entity
+Method setMatKhau không có mô tả trong package entity
