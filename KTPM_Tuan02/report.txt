@@ -1,5 +1,6 @@
-====================================================
-Package không tuân thủ mẫu: app
+========================================================
+Package không tuân thủ mẫu com.companyname. : app
+Hằng số serialVersionUID không viết hoa trong package app
 Class FixButton không có mô tả trong package app
 Method settingButton không có mô tả trong package app
 Method setBorderRadius không có mô tả trong package app
@@ -7,15 +8,19 @@ Method getBorderRadius không có mô tả trong package app
 Method setBackground không có mô tả trong package app
 Method setMouseHoverEnable không có mô tả trong package app
 Method paintComponent không có mô tả trong package app
-====================================================
-Package không tuân thủ mẫu: app
+Các hằng số serialVersionUID không nằm trong một interface trong package app
+========================================================
+Package không tuân thủ mẫu com.companyname. : app
+Hằng số serialVersionUID không viết hoa trong package app
 Class FrmDangNhap không có mô tả trong package app
 Method main không có mô tả trong package app
 Method showPopup không có mô tả trong package app
 Method dangNhap không có mô tả trong package app
 Method actionPerformed không có mô tả trong package app
-====================================================
-Package không tuân thủ mẫu: app
+Các hằng số serialVersionUID không nằm trong một interface trong package app
+========================================================
+Package không tuân thủ mẫu com.companyname. : app
+Hằng số serialVersionUID không viết hoa trong package app
 Class FrmDanhSachHoaDon không có mô tả trong package app
 Method clearTable không có mô tả trong package app
 Method clearTableCTHD không có mô tả trong package app
@@ -36,8 +41,11 @@ Method mouseExited không có mô tả trong package app
 Method keyTyped không có mô tả trong package app
 Method keyPressed không có mô tả trong package app
 Method keyReleased không có mô tả trong package app
-====================================================
-Package không tuân thủ mẫu: app
+Các hằng số serialVersionUID không nằm trong một interface trong package app
+========================================================
+Package không tuân thủ mẫu com.companyname. : app
+Hằng số serialVersionUID không viết hoa trong package app
+Hằng số serialVersionUID không viết hoa trong package app
 Class FrmDonDatPhong không có mô tả trong package app
 Method getFrmDDP không có mô tả trong package app
 Method removeDanhSachPhong không có mô tả trong package app
@@ -56,8 +64,10 @@ Method updateDDP không có mô tả trong package app
 Method actionPerformed không có mô tả trong package app
 Method focusGained không có mô tả trong package app
 Method focusLost không có mô tả trong package app
-====================================================
-Package không tuân thủ mẫu: app
+Các hằng số serialVersionUID không nằm trong một interface trong package app
+========================================================
+Package không tuân thủ mẫu com.companyname. : app
+Hằng số serialVersionUID không viết hoa trong package app
 Class FrmKhachHang không có mô tả trong package app
 Method getFrmKH không có mô tả trong package app
 Method loadDanhSachKH không có mô tả trong package app
@@ -83,8 +93,13 @@ Method keyPressed không có mô tả trong package app
 Method keyReleased không có mô tả trong package app
 Method focusGained không có mô tả trong package app
 Method focusLost không có mô tả trong package app
-====================================================
-Package không tuân thủ mẫu: app
+Các hằng số serialVersionUID không nằm trong một interface trong package app
+========================================================
+Package không tuân thủ mẫu com.companyname. : app
+Hằng số serialVersionUID không viết hoa trong package app
+Method LamMoi không bắt đầu bằng một động từ và phải là chữ thường trong package app
+Method ThemMH không bắt đầu bằng một động từ và phải là chữ thường trong package app
+Method SuaMH không bắt đầu bằng một động từ và phải là chữ thường trong package app
 Class FrmMatHang không có mô tả trong package app
 Method getFrmMatHang không có mô tả trong package app
 Method loadTableMH không có mô tả trong package app
@@ -102,8 +117,11 @@ Method mousePressed không có mô tả trong package app
 Method mouseReleased không có mô tả trong package app
 Method mouseEntered không có mô tả trong package app
 Method mouseExited không có mô tả trong package app
-====================================================
-Package không tuân thủ mẫu: app
+Các hằng số serialVersionUID không nằm trong một interface trong package app
+========================================================
+Package không tuân thủ mẫu com.companyname. : app
+Hằng số serialVersionUID không viết hoa trong package app
+Method XoaNV không bắt đầu bằng một động từ và phải là chữ thường trong package app
 Class FrmNhanVien không có mô tả trong package app
 Method getPanel không có mô tả trong package app
 Method removeDanhSachNV không có mô tả trong package app
@@ -124,8 +142,10 @@ Method mouseEntered không có mô tả trong package app
 Method mouseExited không có mô tả trong package app
 Method focusGained không có mô tả trong package app
 Method focusLost không có mô tả trong package app
-====================================================
-Package không tuân thủ mẫu: app
+Các hằng số serialVersionUID không nằm trong một interface trong package app
+========================================================
+Package không tuân thủ mẫu com.companyname. : app
+Hằng số serialVersionUID không viết hoa trong package app
 Class FrmPhong không có mô tả trong package app
 Method getFrmPhong không có mô tả trong package app
 Method clearTable không có mô tả trong package app
@@ -147,8 +167,10 @@ Method mouseReleased không có mô tả trong package app
 Method mouseEntered không có mô tả trong package app
 Method mouseExited không có mô tả trong package app
 Method actionPerformed không có mô tả trong package app
-====================================================
-Package không tuân thủ mẫu: app
+Các hằng số serialVersionUID không nằm trong một interface trong package app
+========================================================
+Package không tuân thủ mẫu com.companyname. : app
+Hằng số serialVersionUID không viết hoa trong package app
 Class FrmQuanLy không có mô tả trong package app
 Method showPopup không có mô tả trong package app
 Method setTrangThaiPhongTheoNgay không có mô tả trong package app
@@ -167,8 +189,10 @@ Method mousePressed không có mô tả trong package app
 Method mouseReleased không có mô tả trong package app
 Method mouseEntered không có mô tả trong package app
 Method mouseExited không có mô tả trong package app
-====================================================
-Package không tuân thủ mẫu: app
+Các hằng số serialVersionUID không nằm trong một interface trong package app
+========================================================
+Package không tuân thủ mẫu com.companyname. : app
+Hằng số serialVersionUID không viết hoa trong package app
 Class FrmThanhToan không có mô tả trong package app
 Method getFrmQLBH không có mô tả trong package app
 Method loadPhong không có mô tả trong package app
@@ -198,8 +222,10 @@ Method mousePressed không có mô tả trong package app
 Method mouseReleased không có mô tả trong package app
 Method mouseEntered không có mô tả trong package app
 Method mouseExited không có mô tả trong package app
-====================================================
-Package không tuân thủ mẫu: app
+Các hằng số serialVersionUID không nằm trong một interface trong package app
+========================================================
+Package không tuân thủ mẫu com.companyname. : app
+Hằng số serialVersionUID không viết hoa trong package app
 Class FrmThongKe không có mô tả trong package app
 Method getFrmThongKe không có mô tả trong package app
 Method tinhTienThue không có mô tả trong package app
@@ -211,29 +237,30 @@ Method resetAll không có mô tả trong package app
 Method tinhTienThue không có mô tả trong package app
 Method loadDataTable không có mô tả trong package app
 Method actionPerformed không có mô tả trong package app
-====================================================
-Package không tuân thủ mẫu: connection
+Các hằng số serialVersionUID không nằm trong một interface trong package app
+========================================================
+Package không tuân thủ mẫu com.companyname. : connection
 Class ConnectDB không có mô tả trong package connection
 Method getinstance không có mô tả trong package connection
 Method connect không có mô tả trong package connection
 Method disconnect không có mô tả trong package connection
 Method getConnection không có mô tả trong package connection
-====================================================
-Package không tuân thủ mẫu: dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
 Class DAOCTDDP không có mô tả trong package dao
 Method themCTDDP không có mô tả trong package dao
 Method xoaCTDDP không có mô tả trong package dao
 Method suaSoluongMH không có mô tả trong package dao
 Method getCTDDPTheoMa không có mô tả trong package dao
 Method getCTDDPTheoMaDDP không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
 Class DAOCTHD không có mô tả trong package dao
 Method themCTHD không có mô tả trong package dao
 Method getCTHDTheoMa không có mô tả trong package dao
 Method getCTHDTheoMaHD không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
 Class DAODonDatPhong không có mô tả trong package dao
 Method themDDP không có mô tả trong package dao
 Method capNhatDDP không có mô tả trong package dao
@@ -242,8 +269,8 @@ Method getAllDanhSachDDP không có mô tả trong package dao
 Method getDanhSachDDPChoXacNhanVaDaXacNhan không có mô tả trong package dao
 Method getDDPTheoMaPhong không có mô tả trong package dao
 Method getDDPTheoMaKH không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
 Class DAOHoaDon không có mô tả trong package dao
 Method themHoaDon không có mô tả trong package dao
 Method getHDTheoNgay không có mô tả trong package dao
@@ -251,8 +278,8 @@ Method getHDTheoMa không có mô tả trong package dao
 Method getHDTheoTenKH không có mô tả trong package dao
 Method getHDTheoMaNV không có mô tả trong package dao
 Method getHDtheoNgay không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
 Class DAOKhachHang không có mô tả trong package dao
 Method themDanhSachKH không có mô tả trong package dao
 Method huyKH không có mô tả trong package dao
@@ -267,27 +294,28 @@ Method themKHTheoDDP không có mô tả trong package dao
 Method getMaLoaiKHFromTen không có mô tả trong package dao
 Method checkSdtKH không có mô tả trong package dao
 Method getKHTheoTen không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
 Class DAOLoaiKH không có mô tả trong package dao
 Method getAllLoaiKH không có mô tả trong package dao
 Method getLoaiKHTheoMaLoai không có mô tả trong package dao
 Method getMaLoaiKHTheoTen không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
 Class DAOLoaiMH không có mô tả trong package dao
 Method getAllLoaiMatHang không có mô tả trong package dao
 Method getLoaiMHTheoMaLoai không có mô tả trong package dao
 Method getMaLoaiMHTheoTen không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
 Class DAOLoaiPhong không có mô tả trong package dao
 Method getAllLoaiPhong không có mô tả trong package dao
 Method getLoaiPhongTheoMa không có mô tả trong package dao
 Method getLoaiPhongTheoTenLoai không có mô tả trong package dao
 Method getMaLoaiPTheoTen không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
+Method ThemMH không bắt đầu bằng một động từ và phải là chữ thường trong package dao
 Class DAOMatHang không có mô tả trong package dao
 Method ThemMH không có mô tả trong package dao
 Method updateMH không có mô tả trong package dao
@@ -299,8 +327,9 @@ Method getMatHangTheoTenMatHang không có mô tả trong package dao
 Method getMHTheoTenMHVaLoaiMH không có mô tả trong package dao
 Method getTenMH không có mô tả trong package dao
 Method getLMH không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
+Hằng số serialVersionUID không viết hoa trong package dao
 Class DAONhanVien không có mô tả trong package dao
 Method themNV không có mô tả trong package dao
 Method xoaNV không có mô tả trong package dao
@@ -315,8 +344,9 @@ Method getNVTheoTK không có mô tả trong package dao
 Method checkmaNV không có mô tả trong package dao
 Method checkSdtNV không có mô tả trong package dao
 Method checkCccdNV không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+Các hằng số serialVersionUID không nằm trong một interface trong package dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
 Class DAOPhatSinhMa không có mô tả trong package dao
 Method getMaHD không có mô tả trong package dao
 Method getMaKH không có mô tả trong package dao
@@ -324,8 +354,9 @@ Method getMaNV không có mô tả trong package dao
 Method getMaMH không có mô tả trong package dao
 Method getMaP không có mô tả trong package dao
 Method getMaDDP không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
+Hằng số serialVersionUID không viết hoa trong package dao
 Class DAOPhong không có mô tả trong package dao
 Method themPhong không có mô tả trong package dao
 Method huyP không có mô tả trong package dao
@@ -342,16 +373,19 @@ Method getPhongTheoLoai không có mô tả trong package dao
 Method getThongTinPhong không có mô tả trong package dao
 Method getPhongTheoTinhTrang không có mô tả trong package dao
 Method getPhongTheoMaP không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+Các hằng số serialVersionUID không nằm trong một interface trong package dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
+Hằng số serialVersionUID không viết hoa trong package dao
 Class DAOTaiKhoan không có mô tả trong package dao
 Method createTK không có mô tả trong package dao
 Method suaTK không có mô tả trong package dao
 Method getDanhSachTK không có mô tả trong package dao
 Method getTaiKhoanTheoMa không có mô tả trong package dao
 Method getMatKhauTheoMaNV không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: dao
+Các hằng số serialVersionUID không nằm trong một interface trong package dao
+========================================================
+Package không tuân thủ mẫu com.companyname. : dao
 Class Regex không có mô tả trong package dao
 Method regexDiaChi không có mô tả trong package dao
 Method regexTen không có mô tả trong package dao
@@ -377,8 +411,9 @@ Method regexTimPhong không có mô tả trong package dao
 Method regexTimKiemLoaiPhong không có mô tả trong package dao
 Method regexTimKiemTinhTrang không có mô tả trong package dao
 Method regexTimDDPTheoKH không có mô tả trong package dao
-====================================================
-Package không tuân thủ mẫu: entity
+========================================================
+Package không tuân thủ mẫu com.companyname. : entity
+Hằng số serialVersionUID không viết hoa trong package entity
 Class CTDDP không có mô tả trong package entity
 Method getDonDatPhong không có mô tả trong package entity
 Method setDonDatPhong không có mô tả trong package entity
@@ -387,8 +422,9 @@ Method setSoLuongMH không có mô tả trong package entity
 Method getMatHang không có mô tả trong package entity
 Method setMatHang không có mô tả trong package entity
 Method getSerialversionuid không có mô tả trong package entity
-====================================================
-Package không tuân thủ mẫu: entity
+Các hằng số serialVersionUID không nằm trong một interface trong package entity
+========================================================
+Package không tuân thủ mẫu com.companyname. : entity
 Class CTHD không có mô tả trong package entity
 Method getSoLuong không có mô tả trong package entity
 Method setSoLuong không có mô tả trong package entity
@@ -398,8 +434,9 @@ Method getHoaDon không có mô tả trong package entity
 Method setHoaDon không có mô tả trong package entity
 Method getTongTien không có mô tả trong package entity
 Method setTongTien không có mô tả trong package entity
-====================================================
-Package không tuân thủ mẫu: entity
+========================================================
+Package không tuân thủ mẫu com.companyname. : entity
+Hằng số serialVersionUID không viết hoa trong package entity
 Class DonDatPhong không có mô tả trong package entity
 Method getMaDDP không có mô tả trong package entity
 Method setMaDDP không có mô tả trong package entity
@@ -418,8 +455,10 @@ Method setNhanVien không có mô tả trong package entity
 Method getPhong không có mô tả trong package entity
 Method setPhong không có mô tả trong package entity
 Method getSerialversionuid không có mô tả trong package entity
-====================================================
-Package không tuân thủ mẫu: entity
+Các hằng số serialVersionUID không nằm trong một interface trong package entity
+========================================================
+Package không tuân thủ mẫu com.companyname. : entity
+Hằng số serialVersionUID không viết hoa trong package entity
 Class HoaDon không có mô tả trong package entity
 Method getMaHoaDon không có mô tả trong package entity
 Method setMaHoaDon không có mô tả trong package entity
@@ -442,8 +481,10 @@ Method setPhong không có mô tả trong package entity
 Method getGiamGia không có mô tả trong package entity
 Method setGiamGia không có mô tả trong package entity
 Method tinhThanhTien không có mô tả trong package entity
-====================================================
-Package không tuân thủ mẫu: entity
+Các hằng số serialVersionUID không nằm trong một interface trong package entity
+========================================================
+Package không tuân thủ mẫu com.companyname. : entity
+Hằng số serialVersionUID không viết hoa trong package entity
 Class KhachHang không có mô tả trong package entity
 Method getDiaChi không có mô tả trong package entity
 Method setDiaChi không có mô tả trong package entity
@@ -465,29 +506,37 @@ Method getNgayDangKy không có mô tả trong package entity
 Method setNgayDangKy không có mô tả trong package entity
 Method getLoaiKH không có mô tả trong package entity
 Method setLoaiKH không có mô tả trong package entity
-====================================================
-Package không tuân thủ mẫu: entity
+Các hằng số serialVersionUID không nằm trong một interface trong package entity
+========================================================
+Package không tuân thủ mẫu com.companyname. : entity
+Hằng số serialVersionUID không viết hoa trong package entity
 Class LoaiKH không có mô tả trong package entity
 Method getMaLoaiKH không có mô tả trong package entity
 Method setMaLoaiKH không có mô tả trong package entity
 Method getTenLoaiKH không có mô tả trong package entity
 Method setTenLoaiKH không có mô tả trong package entity
-====================================================
-Package không tuân thủ mẫu: entity
+Các hằng số serialVersionUID không nằm trong một interface trong package entity
+========================================================
+Package không tuân thủ mẫu com.companyname. : entity
+Hằng số serialVersionUID không viết hoa trong package entity
 Class LoaiMatHang không có mô tả trong package entity
 Method getMaLoaiMatHang không có mô tả trong package entity
 Method setMaLoaiMatHang không có mô tả trong package entity
 Method getTenLoaiMatHang không có mô tả trong package entity
 Method setTenLoaiMatHang không có mô tả trong package entity
-====================================================
-Package không tuân thủ mẫu: entity
+Các hằng số serialVersionUID không nằm trong một interface trong package entity
+========================================================
+Package không tuân thủ mẫu com.companyname. : entity
+Hằng số serialVersionUID không viết hoa trong package entity
 Class LoaiPhong không có mô tả trong package entity
 Method getMaLoaiPhong không có mô tả trong package entity
 Method setMaLoaiPhong không có mô tả trong package entity
 Method getTenLoaiPhong không có mô tả trong package entity
 Method setTenLoaiPhong không có mô tả trong package entity
-====================================================
-Package không tuân thủ mẫu: entity
+Các hằng số serialVersionUID không nằm trong một interface trong package entity
+========================================================
+Package không tuân thủ mẫu com.companyname. : entity
+Hằng số serialVersionUID không viết hoa trong package entity
 Class MatHang không có mô tả trong package entity
 Method getMaMatHang không có mô tả trong package entity
 Method setMaMatHang không có mô tả trong package entity
@@ -499,8 +548,10 @@ Method getGiaMatHang không có mô tả trong package entity
 Method setGiaMatHang không có mô tả trong package entity
 Method getLoaiMatHang không có mô tả trong package entity
 Method setLoaiMatHang không có mô tả trong package entity
-====================================================
-Package không tuân thủ mẫu: entity
+Các hằng số serialVersionUID không nằm trong một interface trong package entity
+========================================================
+Package không tuân thủ mẫu com.companyname. : entity
+Hằng số serialVersionUID không viết hoa trong package entity
 Class NhanVien không có mô tả trong package entity
 Method getMaNhanVien không có mô tả trong package entity
 Method setMaNhanVien không có mô tả trong package entity
@@ -522,8 +573,10 @@ Method getLuong không có mô tả trong package entity
 Method setLuong không có mô tả trong package entity
 Method getTaiKhoan không có mô tả trong package entity
 Method setTaiKhoan không có mô tả trong package entity
-====================================================
-Package không tuân thủ mẫu: entity
+Các hằng số serialVersionUID không nằm trong một interface trong package entity
+========================================================
+Package không tuân thủ mẫu com.companyname. : entity
+Hằng số serialVersionUID không viết hoa trong package entity
 Class Phong không có mô tả trong package entity
 Method getMaPhong không có mô tả trong package entity
 Method setMaPhong không có mô tả trong package entity
@@ -533,10 +586,13 @@ Method getGiaPhong không có mô tả trong package entity
 Method setGiaPhong không có mô tả trong package entity
 Method getLoaiPhong không có mô tả trong package entity
 Method setLoaiPhong không có mô tả trong package entity
-====================================================
-Package không tuân thủ mẫu: entity
+Các hằng số serialVersionUID không nằm trong một interface trong package entity
+========================================================
+Package không tuân thủ mẫu com.companyname. : entity
+Hằng số serialVersionUID không viết hoa trong package entity
 Class TaiKhoan không có mô tả trong package entity
 Method getMaTK không có mô tả trong package entity
 Method setMaTK không có mô tả trong package entity
 Method getMatKhau không có mô tả trong package entity
 Method setMatKhau không có mô tả trong package entity
+Các hằng số serialVersionUID không nằm trong một interface trong package entity
